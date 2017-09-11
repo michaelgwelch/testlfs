@@ -4,3 +4,4 @@ plantuml.jar filter=lfs diff=lfs merge=lfs -text
 plant4.jar filter=lfs diff=lfs merge=lfs -text
 plant5.jar filter=lfs diff=lfs merge=lfs -text
 plant6.jar filter=lfs diff=lfs merge=lfs -text
+plantuml7.jar filter=lfs diff=lfs merge=lfs -text
